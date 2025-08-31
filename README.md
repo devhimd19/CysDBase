@@ -51,7 +51,9 @@ Pandas==2.3.2
    d. The output for the python code is obtained in a <i>cysdbase_menv_output.csv file.</i><br>
   ![Screenshot 2025-09-01 012501](https://github.com/user-attachments/assets/fc082482-f4fa-4c13-9585-dc21a6356992)
 # Disclaimer 
-If the query you have entered is not showing that indicates the query is not in the database. 
+If the query you have entered is not showing that indicates the query is not in the database.<br>
+# Acknowledgements 
+HD acknowledges the financial support from the Indian Council of Medical Research (ICMR)- Senior Research Fellow (SRF), File No: BMI/11(99)/2022; DB acknowledges the financial support from the Department of Science and Technology (DST), Science and Engineering Research Board (SERB), India, File No: EMR/2017/002953<br>
 # For any additional queries 
 Please contact;<br>
 <b>Prinicipal Investigator:-</b><br>
