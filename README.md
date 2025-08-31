@@ -1,4 +1,4 @@
-# CysDBase - Database Collection Of Cysteine Post-Translational Modifications
+# CysDBase: A comprehensive database of Cysteine Post-Translational Modifications (PTMs) across protein sequence, class, cellular localization, biological pathway, structure, and taxonomy 
 Database collection of cysteine Post-Translational Modifications namely Disulphide, S-glutathionylation, S-nitrosylation, S-sulphenylation, S-palmitoylation, Thioether and Metal-binding. First database to store the information of Thioether, S-sulphenylation and across various metals that exhibits Metal-binding. 
 ![cysdbase_abstract_29072025](https://github.com/user-attachments/assets/06d92ee4-e11f-4e41-ab2a-ad9dfcb4c7e9)
 # Background 
