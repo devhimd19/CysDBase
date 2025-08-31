@@ -34,6 +34,7 @@ Pandas==2.3.2
 a. Download and save the dataset related to query.<br>
   *b. Run the python code <b><a href=https://github.com/devhimd19/CysDBase/blob/main/query.py>query.py</a></b><br>
   *c. It will ask for query namely <i>UniProt_ID or Organisms or Biological pathway or Cell organelle</i>. You can enter based on your requirement.<br>
+  ![Screenshot 2025-09-01 013109](https://github.com/user-attachments/assets/20407fa1-a6f4-43d2-b597-89627c6daa95)
   *d. The output for the python code is obtained in a <i>query_output.csv file.</i><br>
 2. Tutorials to access FASTA sequences download.<br>
   *a. Download and save the dataset related to query.<br>
@@ -44,7 +45,10 @@ a. Download and save the dataset related to query.<br>
   *a. Download and save the dataset related to query.<br>
   *b. Run the python code <b><a href=https://github.com/devhimd19/CysDBase/blob/main/cysdbase_menv.py>cysdbase_menv.py.</a></b><br>
   *c. It will ask for query namely <i>UniProt_ID or PDB_ID</i> and the query must be in capital letters.<br>
+  ![Screenshot 2025-09-01 012333](https://github.com/user-attachments/assets/3ce4bd5d-8106-4ed6-ac7e-a774f2be21cf)
+  ![Screenshot 2025-09-01 012726](https://github.com/user-attachments/assets/13ead8e2-97a3-4b3c-a6dd-98ac9577b683)
   *d. The output for the python code is obtained in a <i>cysdbase_menv_output.csv file.</i><br>
+  ![Uploading Screenshot 2025-09-01 012501.jpg…]()
 # Disclaimer 
 If the query you have entered is not showing that indicates the query is not in the database. 
 # For any additional queries 
