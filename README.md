@@ -37,7 +37,7 @@ Pandas==2.3.2
 # Tutorials to access CysDBase programmatically.
 1. Tutorials to access query<br>
 a. Download and save the dataset related to query.<br>
-  *b. Run the python code <b>query.py</b><br>
+  *b. Run the python code <b><a href=https://github.com/devhimd19/CysDBase/blob/main/query.py>query.py</a></b><br>
   *c. It will ask for query namely <i>UniProt_ID or Organisms or Biological pathway or Cell organelle</i>. You can enter based on your requirement.<br>
   *d. The output for the python code is obtained in a <i>query_output.csv file.</i><br>
 2. Tutorials to access FASTA sequences download.<br>
