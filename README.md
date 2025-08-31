@@ -1,5 +1,5 @@
 # CysDBase
-Database collection of cysteine Post-Translational Modifications namely Disulphide, S-glutathionylation, S-nitrosylation, S-sulphenylation, S-palmitoylation, Thioether and Metal-binding.First database to store the information of Thioether, S-sulphenylation and across various metals that exhibits Metal-binding. 
+Database collection of cysteine Post-Translational Modifications namely Disulphide, S-glutathionylation, S-nitrosylation, S-sulphenylation, S-palmitoylation, Thioether and Metal-binding. First database to store the information of Thioether, S-sulphenylation and across various metals that exhibits Metal-binding. 
 
 # Background 
 Cysteine thiol undergoes various post-translational modifications that contribute to a large number of biochemical, physiological, and cellular processes. Consolidated information about these modifications would be a valued addition to the scientific community for ready reference. A few published datasets are available on specific cysteine modifications; those are less diverse in nature. The aim of this work is to develop a large repository of multiple cysteine post-translational modifications from all the available species encompassing the maximum number of features.
