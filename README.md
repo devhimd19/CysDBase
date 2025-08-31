@@ -35,30 +35,32 @@ Pandas==2.3.2
 3. Second python code is for FASTA Sequences download where the user can enter any query namely UniProt_ID or Organisms or Biological pathway or Cell organelle and can download the data related to query and the results are present in the CSV file.
 4. Third python code is for Protein Strucutral microenvironment where the user enter any query namely UniProt_ID or PDB_ID, but the query must be in the capital letters and the results are present in the CSV file.
 # Tutorials to access CysDBase programmatically.
-1. Tutorials to access query
-  *a. Download and save the dataset related to query.
-  *b. Run the python code query.py
-  *c. It will ask for query namely UniProt_ID or Organisms or Biological pathway or Cell organelle. You can enter based on your requirement
-  *d. The output for the python code is obtained in a query_output.csv file.
-2. Tutorials to access FASTA sequences download
-  *a. Download and save the dataset related to query.
-  *b. Run the python code fasta_sequences.py
-  *c. It will ask for query namely UniProt_ID or Organisms or Biological pathway or Cell organelle. You can enter based on your requirement
-  *d. The output for the python code is obtained in a query_output.csv file.
-3. Tutorials to access the Protein Strucutral Microenvironment
-  *a. Download and save the dataset related to query.
-  *b. Run the python code cysdbase_menv.py
-  *c. It will ask for query namely UniProt_ID or PDB_ID and the query must be in capital letters 
-  *d. The output for the python code is obtained in a cysdbase_menv_output.csv file.
+1. Tutorials to access query<br>
+a. Download and save the dataset related to query.<br>
+  *b. Run the python code <b>query.py</b><br>
+  *c. It will ask for query namely <i>UniProt_ID or Organisms or Biological pathway or Cell organelle</i>. You can enter based on your requirement.<br>
+  *d. The output for the python code is obtained in a <i>query_output.csv file.</i><br>
+2. Tutorials to access FASTA sequences download.<br>
+  *a. Download and save the dataset related to query.<br>
+  *b. Run the python code <b>fasta_sequences.py.</b><br>
+  *c. It will ask for query namely <i>UniProt_ID or Organisms or Biological pathway or Cell organelle</i>. You can enter based on your requirement.<br>
+  *d. The output for the python code is obtained in a <i>query_output.csv file.</i><br>
+4. Tutorials to access the Protein Strucutral Microenvironment.<br>
+  *a. Download and save the dataset related to query.<br>
+  *b. Run the python code cysdbase_menv.py.<br>
+  *c. It will ask for query namely UniProt_ID or PDB_ID and the query must be in capital letters.<br>
+  *d. The output for the python code is obtained in a <i>cysdbase_menv_output.csv file.</i><br>
 # Disclaimer 
 If the query you have entered is not showing that indicates the query is not in the database. 
 # For any additional queries 
-Please contact;
-*Prinicipal Investigator
-*Dr.Debashree Bandyopadhyay,
-*Assistant Professor,
-*BITS Pilani, Hyderabad Campus, INDIA
-*Developer 
-*Devarakonda Himaja,
-*PhD Student in Bioinformatics,
-*BITS Pilani, Hyderabad Campus, INDIA
+Please contact;<br>
+<b>Prinicipal Investigator:-</b><br>
+Dr.Debashree Bandyopadhyay,<br>
+Assistant Professor,<br>
+BITS Pilani, Hyderabad Campus,<br>
+INDIA<br>
+<b>Developer</b><br> 
+Devarakonda Himaja,<br>
+PhD Student in Bioinformatics,<br>
+BITS Pilani, Hyderabad Campus,<br>
+INDIA
