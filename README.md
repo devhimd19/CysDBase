@@ -55,9 +55,9 @@ If the query you have entered is not showing that indicates the query is not in 
 # For any additional queries 
 Please contact;<br>
 <b>Prinicipal Investigator:-</b><br>
-Dr.Debashree Bandyopadhyay,<br>
+<a href=https://www.bits-pilani.ac.in/hyderabad/debasri-bandyopadhyay/>Dr.Debashree Bandyopadhyay,</a><br>
 Assistant Professor,<br>
-BITS Pilani, Hyderabad Campus,<br>
+<a href=https://www.bits-pilani.ac.in/hyderabad/>BITS Pilani, Hyderabad Campus,</a><br>
 INDIA<br>
 <b>Developer</b><br> 
 Devarakonda Himaja,<br>
