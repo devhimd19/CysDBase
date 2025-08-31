@@ -23,3 +23,42 @@ CysDBase database is a comprehensive repository of seven cysteine post-translati
 
 # Link to Resource 
 CysDBase Web Server Link - https://cysdbase.bits-hyderabad.ac.in/
+
+# Programmatic Access to CysDBase 
+Dataset files for the CysDBase can be accessed only after send a email request to banerjee.debi@hyderabad.bits-pilani.ac.in with sending details of Name, Email, Name of the Institute and Place of the Institute. 
+# Requirements for programmatic access CysDBase 
+Pandas==2.3.2
+# Python codes related to CysDBase 
+1. Send a email request to banerjee.debi@hyderabad.bits-pilani.ac.in for downloading the CSV files for the respective three python codes. 
+1. There are three python codes available to curate the data for the respective query.
+2. First python code is for General query where the user can enter any query namely UniProt_ID or Organism or Cell organelle or Biological pathway and can download the data related to query and the results are present in the CSV file.
+3. Second python code is for FASTA Sequences download where the user can enter any query namely UniProt_ID or Organisms or Biological pathway or Cell organelle and can download the data related to query and the results are present in the CSV file.
+4. Third python code is for Protein Strucutral microenvironment where the user enter any query namely UniProt_ID or PDB_ID, but the query must be in the capital letters and the results are present in the CSV file.
+# Tutorials to access CysDBase programmatically.
+1. Tutorials to access query
+  a. Download and save the dataset related to query.
+  b. Run the python code query.py
+  c. It will ask for query namely UniProt_ID or Organisms or Biological pathway or Cell organelle. You can enter based on your requirement
+  d. The output for the python code is obtained in a query_output.csv file.
+2. Tutorials to access FASTA sequences download
+  a. Download and save the dataset related to query.
+  b. Run the python code fasta_sequences.py
+  c. It will ask for query namely UniProt_ID or Organisms or Biological pathway or Cell organelle. You can enter based on your requirement
+  d. The output for the python code is obtained in a query_output.csv file.
+3. Tutorials to access the Protein Strucutral Microenvironment
+  a. Download and save the dataset related to query.
+  b. Run the python code cysdbase_menv.py
+  c. It will ask for query namely UniProt_ID or PDB_ID and the query must be in capital letters 
+  d. The output for the python code is obtained in a cysdbase_menv_output.csv file.
+# Disclaimer 
+If the query you have entered is not showing that indicates the query is not in the database. 
+# For any additional queries 
+Please contact;
+Prinicipal Investigator
+Dr.Debashree Bandyopadhyay,
+Assistant Professor,
+BITS Pilani, Hyderabad Campus, INDIA
+Developer 
+Devarakonda Himaja,
+PhD Student in Bioinformatics,
+BITS Pilani, Hyderabad Campus, INDIA
