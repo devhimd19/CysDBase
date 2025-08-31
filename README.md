@@ -47,8 +47,8 @@ a. Download and save the dataset related to query.<br>
   *d. The output for the python code is obtained in a <i>query_output.csv file.</i><br>
 4. Tutorials to access the Protein Strucutral Microenvironment.<br>
   *a. Download and save the dataset related to query.<br>
-  *b. Run the python code cysdbase_menv.py.<br>
-  *c. It will ask for query namely UniProt_ID or PDB_ID and the query must be in capital letters.<br>
+  *b. Run the python code <b>cysdbase_menv.py.</b><br>
+  *c. It will ask for query namely <i>UniProt_ID or PDB_ID</i> and the query must be in capital letters.<br>
   *d. The output for the python code is obtained in a <i>cysdbase_menv_output.csv file.</i><br>
 # Disclaimer 
 If the query you have entered is not showing that indicates the query is not in the database. 
