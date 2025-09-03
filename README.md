@@ -61,7 +61,7 @@ Please contact;<br>
 Associate Professor,<br>
 <a href=https://www.bits-pilani.ac.in/hyderabad/>BITS Pilani, Hyderabad Campus,</a><br>
 INDIA<br>
-<b>Developer</b><br> 
+<b>Developer:-</b><br> 
 Devarakonda Himaja,<br>
 PhD Student in Bioinformatics,<br>
 BITS Pilani, Hyderabad Campus,<br>
