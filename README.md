@@ -58,7 +58,7 @@ HD acknowledges the financial support from the Indian Council of Medical Researc
 Please contact;<br>
 <b>Prinicipal Investigator:-</b><br>
 <a href=https://www.bits-pilani.ac.in/hyderabad/debasri-bandyopadhyay/>Dr.Debashree Bandyopadhyay,</a><br>
-Assistant Professor,<br>
+Associate Professor,<br>
 <a href=https://www.bits-pilani.ac.in/hyderabad/>BITS Pilani, Hyderabad Campus,</a><br>
 INDIA<br>
 <b>Developer</b><br> 
@@ -66,3 +66,4 @@ Devarakonda Himaja,<br>
 PhD Student in Bioinformatics,<br>
 BITS Pilani, Hyderabad Campus,<br>
 INDIA
+![bits-hyd](https://github.com/user-attachments/assets/1e469b9b-2e91-4b44-abca-f654b567c0ff)
